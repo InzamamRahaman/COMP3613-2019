@@ -11,6 +11,10 @@
 ## Lecture Slides
 [Lecture #1](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/lectures/COMP3613-Lecture-1-Introduction%20to%20Software%20Engineering.pdf)
 
+[Lecture #2](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/lectures/COMP3613%20-%20Lecture%202.pdf)
+
+[Lecture #3 - Project Spec](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/lectures/COMP3613-Lecture%203-Project%20Spec.pdf)
+
 ## Lab slides and materials
 [Git Intro](https://courses.cs.washington.edu/courses/cse403/13au/lectures/git.ppt.pdf)
 
