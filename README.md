@@ -17,6 +17,7 @@
 
 ## Lab slides and materials
 [Git Intro](https://courses.cs.washington.edu/courses/cse403/13au/lectures/git.ppt.pdf)
+
 [Testing Tutorial #1](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/tutorials%20and%20auxiilary%20material/COMP3613-UnitTesting-Lab.pdf)
 
 ## Assignment Specifications
