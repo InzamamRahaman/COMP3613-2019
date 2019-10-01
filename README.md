@@ -8,6 +8,10 @@
 
 [Milestone 1 Submission Form - Due 25th September 2019](https://docs.google.com/forms/d/e/1FAIpQLSfWOxyvL25Vw5SJyPuKFMLPmDf54i4dOKL9YvqQ866jICkHuw/viewform)
 
+Milestone 2 - Email to inzamam dot rahaman at outlook dot com by Sunday 6th October 2019 @ 11:59 PM
+
+[Project Ideas](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/course_admin/TTMet%20Projects.pdf)
+
 ## Lecture Slides
 [Lecture #1](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/lectures/COMP3613-Lecture-1-Introduction%20to%20Software%20Engineering.pdf)
 
