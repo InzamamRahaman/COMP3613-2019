@@ -24,5 +24,7 @@ Milestone 2 - Email to inzamam dot rahaman at outlook dot com by Sunday 6th Octo
 
 [Testing Tutorial #1](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/tutorials%20and%20auxiilary%20material/COMP3613-UnitTesting-Lab.pdf)
 
+[TDD Tutorial](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/tutorials%20and%20auxiilary%20material/COMP3613%20-%20Lab%205%20-%20TDD.pdf)
+
 ## Assignment Specifications
 
