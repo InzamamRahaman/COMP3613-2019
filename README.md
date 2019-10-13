@@ -10,6 +10,15 @@
 
 Milestone 2 - Email to inzamam dot rahaman at outlook dot com by Sunday 6th October 2019 @ 11:59 PM
 
+Milestone 3 - 
+
+For individual reports, please submit links through:
+https://docs.google.com/forms/d/e/1FAIpQLSc9OFZtPSPrfiyD2ThvVt9o5qdkcy61VJWPelbsKIavlZffmQ/viewform
+
+For design documents, please submit links through:
+https://docs.google.com/forms/d/e/1FAIpQLScHQkPujonUxBeqP2hI6ulm4ki2f_9X1nw-LR0LPECcetsVpQ/viewform
+
+
 [Project Ideas](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/course_admin/TTMet%20Projects.pdf)
 
 ## Lecture Slides
