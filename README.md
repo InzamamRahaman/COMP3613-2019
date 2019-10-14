@@ -1,5 +1,8 @@
 # COMP3613-2019
 
+
+No Lab on Tuesday 15th October 2019. If you need to meet for advice wrt your projects, you can see me in the office
+
 [Course outline](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/course_admin/COMP3613-Course-Outline.pdf)
 
 [Slack Sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSehpVHHpV_HjT4nB5eN4Pc5tex_BJ1tH0z4QzdamOSy26MO2A/viewform)
