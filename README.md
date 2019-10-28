@@ -38,5 +38,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScHQkPujonUxBeqP2hI6ulm4ki2f_9X1nw-LR0L
 
 [TDD Tutorial](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/tutorials%20and%20auxiilary%20material/COMP3613%20-%20Lab%205%20-%20TDD.pdf)
 
+[CI Lab](https://github.com/InzamamRahaman/COMP3613-2019/blob/master/tutorials%20and%20auxiilary%20material/CI.pdf)
+
 ## Assignment Specifications
 
